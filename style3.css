@@ -1,0 +1,13 @@
+body {
+    color: #000000;
+    margin: auto;
+    text-align: center;
+
+}
+
+.container {
+    padding: 2%;
+    border-radius: 50px;
+    margin-top: 5%;
+    outline: 3px solid rgb(254, 207, 19);
+}

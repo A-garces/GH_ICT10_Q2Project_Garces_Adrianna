@@ -1,0 +1,17 @@
+body {
+    margin-top: 4%;
+    color: #000000;
+    margin: auto;
+    text-align: center;
+
+}
+
+.container1 {
+    background-color: rgb(255, 255, 217);
+    padding: 3%;
+}
+
+.container2 {
+      padding: 50px 0;
+}
+
